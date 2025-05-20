@@ -33,7 +33,6 @@ EduFlow is a comprehensive educational management system built with ASP.NET Core
   - Unit of Work Pattern
   - Generic Repository Pattern
   - Specification Design Pattern
-  - CQRS Pattern
 
 - **Security & Authentication**
   - JWT Authentication
